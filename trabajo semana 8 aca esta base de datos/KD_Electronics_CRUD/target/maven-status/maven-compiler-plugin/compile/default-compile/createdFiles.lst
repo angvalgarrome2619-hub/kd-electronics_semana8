@@ -1,0 +1,5 @@
+com\mycompany\kd_electronics_crud\KD_Electronics_CRUD.class
+modelo\Producto.class
+dao\ProductoDAO.class
+principal\Principal.class
+conexion\Conexion.class
